@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface EsameManager {
+public interface EsameManager {
+
+    void addEsame(Studente s,Esame esame);
+
 }
